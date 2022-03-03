@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { OpAnimation, StyledMain } from './styles'
 import { TiArrowBack } from 'react-icons/ti'
-import { Link, useNavigate } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 
 function Main({ title, container }) {
   const [opValue, setOpValue] = useState(0)
