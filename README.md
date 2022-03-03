@@ -11,7 +11,7 @@ Optei por utilizar a lib reactJS por acreditar ser a mais adequada em termos de 
 No Backend optei por gerar um fake database acoplado ao frontend, que pode ser encontrado em src/services/database. A api utilizada para gerar esse fakedatabase pode ser encontrada [aqui](https://github.com/Lmsilvano/teste-processoseletivo-certi-backend).
 
 
-[pookie](#pookie)
+
 #### [Link do deploy do projeto na netlify](https://starwarscatalog-certi.netlify.app)
 ### Telas
 # Tecnologias utilizadas:
@@ -40,3 +40,17 @@ dica :(no windows basta segurar a tecla shift e clicar no fundo da pasta raiz do
 - Após concluir a instalação, mantendo-se no diretório raiz do projeto, execute o comando "npm start"
 - você também pode conferir o projeto rodando [aqui](https://starwarscatalog-certi.netlify.app)
 [pookie](#pookie)
+
+## Telas
+
+![Home](screens/home.png?raw=true)
+
+### Pilots
+![Pilots](screens/pilots.png)
+### Starships
+---
+![Starships](screens/starships.png?raw=true)
+### Pilots Details
+---
+![Pilots Details](screens/pilotsdetail1.png?raw=true)
+![Pilots Details 2](screens/pilotsdetail2.png?raw=true)
