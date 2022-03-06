@@ -13,7 +13,7 @@ No Backend optei por gerar um fake database acoplado ao frontend, que pode ser e
 
 
 #### [Link do deploy do projeto na netlify](https://starwarscatalog-certi.netlify.app)
-### Telas
+
 # Tecnologias utilizadas:
 * Javascript com **React**
 * CSS-in-JS (Styled Components)
